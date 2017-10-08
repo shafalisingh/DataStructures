@@ -28,6 +28,8 @@ def getIntersectionNode( headA, headB):
              curA = curA.next
             elif curA==curB:
                 return curA
+				
+				
 
 
 if __name__ == '__main__':
